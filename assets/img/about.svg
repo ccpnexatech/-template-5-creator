@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="t2 d2">
+  <title id="t2">About section image placeholder</title>
+  <desc id="d2">Person speaking at an event represented with simple geometric shapes.</desc>
+  <rect width="480" height="480" fill="#eef2ff"/>
+  <rect x="80" y="280" width="320" height="140" rx="24" fill="#c7d2fe"/>
+  <circle cx="240" cy="180" r="70" fill="#94a3b8"/>
+  <rect x="175" y="248" width="130" height="120" rx="24" fill="#64748b"/>
+  <rect x="70" y="220" width="96" height="16" rx="8" fill="#f59e0b"/>
+</svg>
